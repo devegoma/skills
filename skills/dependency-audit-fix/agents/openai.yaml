@@ -1,0 +1,4 @@
+interface:
+  display_name: "依存関係の監査と修正"
+  short_description: "パッケージマネージャーを検出し、安全な脆弱性修正を反復して表で報告"
+  default_prompt: "$dependency-audit-fix を使い、ワークスペースの依存関係を監査し、互換性を保てる修正を繰り返して結果をテーブルで報告してください。"
